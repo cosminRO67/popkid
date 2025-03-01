@@ -18,8 +18,10 @@
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
 </a></p>
 - <a href="https://github.com/Popkiddevs/POPKID-XTECH/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
+# ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
+</a></p>
+- <a href="https://popkid.vercel.app/"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
 
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). And then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ## **NOTE: USE PANEL DEPLOYMENT METHOD BECAUSE ITS THE CURRENT METHOD**
 
